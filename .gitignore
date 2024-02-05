@@ -1,4 +1,5 @@
 *.png
 *.pdf
 learning-basic-python.py
-
+file.json
+testing-json.py
