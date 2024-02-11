@@ -82,4 +82,3 @@ for symbol, row, col, *args in buttons:
     button.grid(row=row, column=col, rowspan=args[0] if args else 1, columnspan=args[1] if len(args) > 1 else 1)
 
 root.mainloop()
-
